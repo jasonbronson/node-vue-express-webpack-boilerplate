@@ -1,0 +1,19 @@
+{
+  "name": "node-vue-express-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Node Js, Vue 2, Webpack, Express Starter Boilerplate ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jasonbronson/node-vue-express-webpack-boilerplate.git"
+  },
+  "author": "Jason Bronson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonbronson/node-vue-express-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jasonbronson/node-vue-express-webpack-boilerplate#readme"
+}
